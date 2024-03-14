@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "Nombre": "Colegio Particular ALFA",
+        "Descripcion": "Primaria",
+        "Domicilio": "AVENIDA CIRCONIO 495-A VALLE DORADO ENTRE ALEJANDRINA Y AMATISTA, SAN LUIS POTOSI, SAN LUIS POTOSI, SAN LUIS POTOSI",
+        "Telefono": "8226307"
+    },
+    {
+        "id": "2",
+        "Nombre": "Colegio Particular ALFREDO NOBEL",
+        "Descripcion": "Secundaria",
+        "Domicilio": "AVENIDA HIMNO NACIONAL NUM. 5305-A SAN JUAN DE GUADALUPE, SAN LUIS POTOSI, SAN LUIS POTOSI, SAN LUIS POTOSI",
+        "Telefono": "4448156854"
+    },
+    {
+        "id": "3",
+        "Nombre": "Colegio Particular AMADO NERVO",
+        "Descripcion": "Primaria, Secundaria",
+        "Domicilio": "CALZADA DE GUADALUPE NUM. 275, SAN LUIS POTOSI, SAN LUIS POTOSI, SAN LUIS POTOSI",
+        "Telefono": "4448128034"
+    },
+    {
+        "id": "4",
+        "Nombre": "Colegio Particular ANGLO HISPANO",
+        "Descripcion": "Secundaria",
+        "Domicilio": "HERNAN CORTES NUM. 606 INDUSTRIAL AVIACION, SAN LUIS POTOSI, SAN LUIS POTOSI, SAN LUIS POTOSI",
+        "Telefono": "4448133488"
+    },
+    {
+        "id": "5",
+        "Nombre": "Colegio Particular ANGLO POTOSINO",
+        "Descripcion": "Primaria",
+        "Domicilio": "SAN VICTOR NUM. 121 FRACCION DEL SAUCITO, SAN LUIS POTOSI, SAN LUIS POTOSI, SAN LUIS POTOSI",
+        "Telefono": "230816"
+    },
+    {
+        "id": "6",
+        "Nombre": "Colegio Particular ARANZAZU",
+        "Descripcion": "Primaria, Secundaria",
+        "Domicilio": "AVENIDA MU FRACCIONAMIENTO LOS REYES, SAN LUIS POTOSI, SAN LUIS POTOSI, SAN LUIS POTOSI",
+        "Telefono": "4448174915"
+    },
+    {
+        "id": "7",
+        "Nombre": "Colegio Particular ATENEO POTOSINO",
+        "Descripcion": "Primaria",
+        "Domicilio": "AVENIDA GRANJAS NUM. 225 RETORNOS, SAN LUIS POTOSI, SAN LUIS POTOSI, SAN LUIS POTOSI",
+        "Telefono": "4448112251"
+    },
+    {
+        "id": "8",
+        "Nombre": "Colegio Particular CASA DE LA EDUCACION Y CULTURA, A.C.",
+        "Descripcion": "Primaria",
+        "Domicilio": "ITURBIDE NUM. 930, SAN LUIS POTOSI, SAN LUIS POTOSI, SAN LUIS POTOSI",
+        "Telefono": "4448123308"
+    },
+    {
+        "id": "9",
+        "Nombre": "Colegio Particular CASA Y TALLER MONTESSORI",
+        "Descripcion": "Primaria",
+        "Domicilio": "PASEO DE LOS NOGALES NUM. 148 FRACCIONAMIENTO PRADOS GLORIETA 1A SECCION, SAN LUIS POTOSI, SAN LUIS POTOSI, SAN LUIS POTOSI",
+        "Telefono": "4448227416"
+    },
+    {
+        "id": "10",
+        "Nombre": "Colegio Particular CENTROS DE ESTUDIO PAIDEIA",
+        "Descripcion": "Secundaria",
+        "Domicilio": "VALENTIN GAMA NUM. 515 POLANCO, SAN LUIS POTOSI, SAN LUIS POTOSI, SAN LUIS POTOSI",
+        "Telefono": "4448331440"
+    }
+]
